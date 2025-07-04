@@ -2,7 +2,8 @@
 
 A simple React implementation of the classic Tic-Tac-Toe game.
 
-![Tic-Tac-Toe Screenshot](public/screenshot.png) <!-- Add a screenshot if available -->
+![image](https://github.com/user-attachments/assets/98c651c5-f34a-433e-95ec-c739764cb8fc)
+
 
 ## Features
 
